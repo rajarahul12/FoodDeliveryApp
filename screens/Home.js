@@ -82,7 +82,7 @@ export default function Home({navigation}) {
   const restaurantData = [
     {
       id: 1,
-      name: 'ByProgrammers Burger',
+      name: 'Burgers Story',
       rating: 4.8,
       categories: [5, 7],
       priceRating: affordable,
@@ -125,7 +125,7 @@ export default function Home({navigation}) {
     },
     {
       id: 2,
-      name: 'ByProgrammers Pizza',
+      name: 'Flaming Pizza',
       rating: 4.8,
       categories: [2, 4, 6],
       priceRating: expensive,
@@ -177,7 +177,7 @@ export default function Home({navigation}) {
     },
     {
       id: 3,
-      name: 'ByProgrammers Hotdogs',
+      name: "Ted's Hot Dogs",
       rating: 4.8,
       categories: [3],
       priceRating: expensive,
@@ -204,7 +204,7 @@ export default function Home({navigation}) {
     },
     {
       id: 4,
-      name: 'ByProgrammers Sushi',
+      name: 'Sushi and Sake',
       rating: 4.8,
       categories: [8],
       priceRating: expensive,
@@ -231,7 +231,7 @@ export default function Home({navigation}) {
     },
     {
       id: 5,
-      name: 'ByProgrammers Cuisine',
+      name: 'Royal Cuisine',
       rating: 4.8,
       categories: [1, 2],
       priceRating: affordable,
@@ -282,7 +282,7 @@ export default function Home({navigation}) {
     },
     {
       id: 6,
-      name: 'ByProgrammers Dessets',
+      name: 'The Dessert Shop',
       rating: 4.9,
       categories: [9, 10],
       priceRating: affordable,
